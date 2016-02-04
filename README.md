@@ -11,6 +11,8 @@ Made with ♥︎ at Supercharge
 
 With SCConfiguration you can easily manage environment dependent (or global) configuration parameters in a property list file.
 
+
+## modositas
 ## Installation
 
 SCConfiguration is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
