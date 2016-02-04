@@ -29,6 +29,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <MicrosoftOffice/Word.h>
 
 /**
  This class can read predefined key-value pairs from a plist file called <code>Configuration.plist</code>.
