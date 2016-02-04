@@ -145,3 +145,5 @@ Contributions are always welcome! (:
 ## License
 
 SCConfiguration is available under the MIT license. See the LICENSE file for more info.
+
+test1
